@@ -1,5 +1,6 @@
 {
   "name": "near-marketplace",
+  "homepage": "https://xyzjesus.github.io/near-marketplace-contract",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
